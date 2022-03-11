@@ -18,6 +18,11 @@
       "day_4": {
         "main": "./day_4/main.mo",
         "type": "motoko"
+      },
+
+      "day_5": {
+        "main": "./day_5/main.mo",
+        "type": "motoko"
       }
 
     },
@@ -27,7 +32,7 @@
         "packtool": ""
       }
     },
-    "dfx": "0.8.4",
+    "dfx": "0.9.2",
     "networks": {
       "local": {
         "bind": "127.0.0.1:8000",
