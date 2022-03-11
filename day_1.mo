@@ -101,7 +101,7 @@ actor {
             };
             
           };
-        let array2 : [Nat] = Array.tabulate<Nat>(b, func(i:Nat) : Nat {
+        let array2 : [Nat] = Array.tabulate<Nat>(10, func(i:Nat) : Nat {
              x[i];
            
             }) ;
